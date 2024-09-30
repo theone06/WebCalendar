@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Topics/LocalDate/2 weeks after/out/
+/Topics/LocalDate/2 weeks after/out/production/classes/
+/Topics/LocalDate/30 years before and after/out/
+/Topics/LocalDate/30 years before and after/out/production/classes/
+/Topics/LocalDate/Convert numbers to days/out/
+/Topics/LocalDate/Convert numbers to days/out/production/classes/
+/Topics/LocalDate/Find all mondays/out/
+/Topics/LocalDate/Find all mondays/out/production/classes/
+/Topics/LocalDate/LocalDate class/out/
+/Topics/LocalDate/LocalDate class/out/production/classes/
+/Topics/LocalDate/Print dates of a year with an offset/out/
+/Topics/LocalDate/Print dates of a year with an offset/out/production/classes/
+/Topics/LocalDate/Representing a date/out/
+/Topics/LocalDate/Representing a date/out/production/classes/
+/Topics/LocalDate/Similar date/out/
+/Topics/LocalDate/Similar date/out/production/classes/
+/Topics/LocalDate/The n-th day from the end of a month/out/
+/Topics/LocalDate/The n-th day from the end of a month/out/production/classes/
+/Topics/LocalDate/Theory/out/
+/Topics/LocalDate/Theory/out/production/classes/
+/Topics/LocalDate/Working with dates/out/
+/Topics/LocalDate/Working with dates/out/production/classes/
+/Web Calendar/task/build/
+/Web Calendar/task/out/
+/Web Calendar/task/out/production/classes/
+/Web Calendar/task/out/test/classes/

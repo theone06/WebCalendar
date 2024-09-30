@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: resources/application.properties
+    visible: true
+    learner_created: false
+  - name: src/webCalendarSpring/Main.java
+    visible: true
+    learner_created: false
+  - name: test/WebCalendarSpringTest.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: false
+    learner_created: false
+  - name: src/webCalendarSpring/WebCalendarController.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/WebCalendarEvent.java
+    visible: true
+    learner_created: true
+  - name: src/webCalendarSpring/GlobalExceptionHandler.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/37839#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 06 Aug 2024 15:49:13 UTC"
+record: 2
